@@ -1,2 +1,5 @@
 # TokenGenerator
-Code for Week 11 involving the script used to generate code after inputing the correct username and password. 
+Code for Week 11 involving the script used to generate code after inputing the correct username and password.
+
+Username: devnetuser
+Password: Cisco123!
